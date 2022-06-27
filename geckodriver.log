@@ -1,0 +1,22 @@
+1656347817455	geckodriver	INFO	Listening on 127.0.0.1:52232
+1656347820518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\maksm\\AppData\\Local\\Temp\\rust_mozprofilefkFYDl"
+1656347821165	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52233
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maksm\\AppData\\Local\\Temp\\rust_mozprofilefkFYDl\\search.json.mozlz4", (void 0)))
+1656347825124	Marionette	INFO	Listening on port 52255
+Read port: 52255
+1656347825216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52233/devtools/browser/4f04b68e-58d4-41fd-869c-9f3066c821a0
+1656347833260	Marionette	INFO	Stopped listening on port 52255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656347927298	geckodriver	INFO	Listening on 127.0.0.1:52293
+1656347930382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\maksm\\AppData\\Local\\Temp\\rust_mozprofile1dMav5"
+*** You are running in headless mode.
+1656347931017	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52294
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maksm\\AppData\\Local\\Temp\\rust_mozprofile1dMav5\\search.json.mozlz4", (void 0)))
+1656347932872	Marionette	INFO	Listening on port 52313
+DevTools listening on ws://localhost:52294/devtools/browser/2593e41d-72dd-470c-b4ef-f95625377b19
+Read port: 52313
+1656347933024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
